@@ -1,0 +1,21 @@
+{
+  "name": "@optimistdigital/eslint-config-rules",
+  "version": "1.0.1",
+  "description": "Optimist Digital ESLint rules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optimistdigital/eslint-config-rules.git"
+  },
+  "contributors": [
+    "Matis Lepik <matis.lepik@gmail.com> (http://matislepik.eu/)"
+  ],
+  "peerDependencies": {
+    "stylelint": "^7.3.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/optimistdigital/eslint-config-rules/issues"
+  },
+  "homepage": "https://github.com/optimistdigital/eslint-config-rules#readme"
+}

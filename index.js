@@ -56,8 +56,7 @@ module.exports = {
      "number-no-trailing-zeros": true,
      "length-zero-no-unit": true,
      "property-case": "lower",
-     "rule-empty-line-before": "always-multi-line",
-     "rule-non-nested-empty-line-before": [ "always-multi-line", {
+     "rule-empty-line-before": [ "always-multi-line", {
        ignore: ["after-comment"],
      } ],
      "selector-combinator-space-after": "always",

@@ -11,7 +11,7 @@
     "Matis Lepik <matis.lepik@gmail.com> (http://matislepik.eu/)"
   ],
   "peerDependencies": {
-    "stylelint": "^7.8.0"
+    "stylelint": ">= 7.8.x < 8.1.x"
   },
   "license": "MIT",
   "bugs": {
